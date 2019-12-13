@@ -1,0 +1,52 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+0.0.0.0 install.avira-update.com
+0.0.0.0 analytics.ff.avast.com
+0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 license.piriform.com
+0.0.0.0 www.ccleaner.com
+0.0.0.0 shepherd.ff.avast.com
+151.101.129.140   i.redditmedia.com
+52.34.230.181     www.reddithelp.com
+151.101.65.140    g.redditmedia.com
+151.101.65.140    a.thumbs.redditmedia.com
+151.101.1.140     redditgifts.com
+151.101.1.140     i.redd.it
+151.101.1.140     old.reddit.com
+151.101.1.140     new.reddit.com
+151.101.129.140   reddit.com
+151.101.129.140   gateway.reddit.com
+151.101.129.140   oauth.reddit.com
+151.101.129.140   sendbird.reddit.com
+151.101.129.140   v.redd.it
+151.101.1.140     b.thumbs.redditmedia.com
+151.101.1.140     events.reddit.com
+54.210.123.98     stats.redditmedia.com
+151.101.65.140    www.redditstatic.com
+151.101.193.140   www.reddit.com
+52.3.23.26        pixel.redditmedia.com
+151.101.65.140    www.redditmedia.com
+151.101.193.140   about.reddit.com
+52.203.76.9       out.reddit.com
+127.0.0.1          facebook.com 
+127.0.0.1          www.facebook.com 
