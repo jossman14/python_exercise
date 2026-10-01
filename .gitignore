@@ -22,3 +22,7 @@ coverage/
 Thumbs.db
 .idea/
 .vscode/
+
+virtual/
+__pycache__/
+*.pyc
